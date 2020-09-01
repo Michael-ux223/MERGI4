@@ -1,0 +1,17 @@
+{
+  "name": "MERGI3",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.3.0",
+    "request": "2.81.0",
+    "foreach-timeout": "2.0.2",
+    "express": "^4.16.3",
+    "map": "^1.0.1",
+        "express": "^4.16.3",
+        "https": "^1.0.0"
+  }
+}
